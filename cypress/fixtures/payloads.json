@@ -1,0 +1,13 @@
+{
+  "postRequest": {
+      "name": "bidemi",
+      "salary": "6000000",
+      "age": "27"
+  },
+
+  "putRequest": {
+    "name": "lekki",
+    "salary": "2000",
+    "age": "10"
+  }
+}
