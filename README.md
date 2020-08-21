@@ -1,6 +1,6 @@
 # Cypress API Testing Framework
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6da4c7b37f244b68ab1fbdba1ddaa0c0)](https://www.codacy.com/manual/bidemiajala/rest-api-framework?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bidemiajala/rest-api-framework&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6da4c7b37f244b68ab1fbdba1ddaa0c0)](https://www.codacy.com/manual/bidemiajala/rest-api-framework?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bidemiajala/rest-api-framework&amp;utm_campaign=Badge_Grade)  [![rest-api-framework](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/yaz4vc/master&style=social&logo=cypress)](https://dashboard.cypress.io/projects/yaz4vc/runs)
 
 This an API testing framework built for Cypress.io using Javascript.
 
