@@ -7,8 +7,8 @@ describe ('A simple DELETE request', function() {
         .then((response) => {
             expect(response.status).to.eq(200)
             expect(response.body).to.not.be.null
-            expect(response.body.status).to.eq('failed')
-            expect(response.body.message).to.eq('Error! Not able to delete record')
+            expect(response.body.status).to.eq('success')
+            expect(response.body.message).to.eq('Successfully! Record has been deleted')
         });
     });
 });
