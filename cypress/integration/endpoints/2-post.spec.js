@@ -12,6 +12,7 @@ describe ('A simple POST request', function() {
         cy.request({
            method: 'POST', 
            url: endpoint,
+           failOnStatusCode: false,
            body: this.data.postRequest
         })
         .then((response) => {
